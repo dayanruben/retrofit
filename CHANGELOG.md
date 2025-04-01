@@ -16,7 +16,7 @@
 
 **Fixed**
 
- - Nothing yet!
+ - Primitive types used with `@Tag` now work by storing the value boxed with the boxed class as the key.
 
 
 ## [2.11.0] - 2024-03-28
