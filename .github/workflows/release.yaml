@@ -50,4 +50,4 @@ jobs:
           clean: true
           clean-exclude: |
             .nojekyll
-            latest/
+            latest/**
