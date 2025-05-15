@@ -8,6 +8,8 @@ let retrofitProperties = readFileSync('../gradle.properties');
 let retrofitVersion = /VERSION_NAME=(.*?)\n/.exec(retrofitProperties)[1];
 
 export default defineConfig({
+	site: 'https://square.github.io',
+	base: '/retrofit/latest',
 	env: {
 		schema: {
 			VERSION: envField.string({ context: 'server', access: 'public', optional: true, default: retrofitVersion }),
