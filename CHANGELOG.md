@@ -1,6 +1,23 @@
 # Change Log
 
 ## [Unreleased]
+[Unreleased]: https://github.com/square/retrofit/compare/2.12.0...HEAD
+
+**New**
+
+ - Nothing yet!
+
+**Changed**
+
+ - Nothing yet!
+
+**Fixed**
+
+ - Nothing yet!
+
+
+## [2.12.0] - 2025-05-15
+[2.12.0]: https://github.com/square/retrofit/releases/tag/2.12.0
 
 **New**
 
@@ -12,10 +29,6 @@
    - Moshi
    - Protobuf
    - Wire
-
-**Changed**
-
- - Nothing yet!
 
 **Fixed**
 
@@ -682,7 +695,6 @@ Initial release.
 
 
 
-[Unreleased]: https://github.com/square/retrofit/compare/2.11.0...HEAD
 [2.11.0]: https://github.com/square/retrofit/releases/tag/2.11.0
 [2.10.0]: https://github.com/square/retrofit/releases/tag/2.10.0
 [2.9.0]: https://github.com/square/retrofit/releases/tag/2.9.0
