@@ -2,6 +2,8 @@
 
 The documentation is [built with Starlight](https://starlight.astro.build).
 
+Use Node.js 22.23.4 or later for the website build. Release publishing runs only in the upstream `lysine-dev/retrofit` repository.
+
 Common commands:
 
 * `npm install` – install deps (must do first or if `package.json` changes)
